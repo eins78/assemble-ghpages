@@ -1,0 +1,33 @@
+{
+  "name": "foo",
+  "description": "Documentation for the best project on GitHub.",
+  "version": "0.1.0",
+  "homepage": "http://example.com",
+  "author": {
+    "name": "Max F. Albrecht",
+    "url": "http://example.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://example.com/eins78/ghpages.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://example.com/blob/master/LICENSE-MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "assemble": "~0.4.0"
+  },
+  "keywords": [
+    "assemble",
+    "generate gh-pages",
+    "build gh-pages",
+    "alternative to jekyll"
+  ]
+}
